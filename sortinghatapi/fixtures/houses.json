@@ -1,0 +1,30 @@
+[
+  {
+    "model": "sortinghatapi.house",
+    "pk": 1,
+    "fields": {
+      "name": "Gryffindor"
+    }
+  },
+  {
+    "model": "sortinghatapi.house",
+    "pk": 2,
+    "fields": {
+      "name": "Hufflepuff"
+    }
+  },
+  {
+    "model": "sortinghatapi.house",
+    "pk": 3,
+    "fields": {
+      "name": "Ravenclaw"
+    }
+  },
+  {
+    "model": "sortinghatapi.house",
+    "pk": 4,
+    "fields": {
+      "name": "Slytherin"
+    }
+  }
+]

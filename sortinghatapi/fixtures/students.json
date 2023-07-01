@@ -1,0 +1,46 @@
+[
+  {
+    "model": "sortinghatapi.student",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "house": 1,
+      "first_name": "Harry",
+      "last_name": "Potter",
+      "image_url": "https://example.com/harry_potter.jpg"
+    }
+  },
+  {
+    "model": "sortinghatapi.student",
+    "pk": 2,
+    "fields": {
+      "user": 1,
+      "house": 2,
+      "first_name": "Cedric",
+      "last_name": "Diggory",
+      "image_url": "https://example.com/cedric_diggory.jpg"
+    }
+  },
+  {
+    "model": "sortinghatapi.student",
+    "pk": 3,
+    "fields": {
+      "user": 1,
+      "house": 3,
+      "first_name": "Luna",
+      "last_name": "Lovegood",
+      "image_url": "https://example.com/luna_lovegood.jpg"
+    }
+  },
+  {
+    "model": "sortinghatapi.student",
+    "pk": 4,
+    "fields": {
+      "user": 1,
+      "house": 4,
+      "first_name": "Draco",
+      "last_name": "Malfoy",
+      "image_url": "https://example.com/draco_malfoy.jpg"
+    }
+  }
+]
